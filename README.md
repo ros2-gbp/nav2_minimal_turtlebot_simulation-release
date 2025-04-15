@@ -1,3 +1,29 @@
+## nav2_minimum_turtlebot_simulation (rolling) - 1.1.0-1
+
+The packages in the `nav2_minimum_turtlebot_simulation` repository were released into the `rolling` distro by running `/usr/bin/bloom-release nav2_minimum_turtlebot_simulation --rosdistro rolling --track rolling` on `Tue, 15 Apr 2025 22:31:48 -0000`
+
+These packages were released:
+- `nav2_minimal_tb3_sim`
+- `nav2_minimal_tb4_description`
+- `nav2_minimal_tb4_sim`
+
+Version of package(s) in repository `nav2_minimum_turtlebot_simulation`:
+
+- upstream repository: https://github.com/ros-navigation/nav2_minimal_turtlebot_simulation.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `1.0.2-1`
+- new version: `1.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## nav2_minimal_turtlebot_simulation (rolling) - 1.0.2-1
 
 The packages in the `nav2_minimal_turtlebot_simulation` repository were released into the `rolling` distro by running `/usr/bin/bloom-release nav2_minimal_turtlebot_simulation --rosdistro rolling --track rolling --edit` on `Mon, 06 Jan 2025 18:33:02 -0000`
