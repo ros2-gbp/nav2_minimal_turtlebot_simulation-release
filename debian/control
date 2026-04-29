@@ -1,0 +1,12 @@
+Source: ros-lyrical-nav2-minimal-tb4-sim
+Section: misc
+Priority: optional
+Maintainer: Steve Macenski <steve@opennav.org>
+Build-Depends: debhelper (>= 9.0.0), ros-lyrical-ament-cmake, ros-lyrical-ament-lint-auto <!nocheck>, ros-lyrical-ament-lint-common <!nocheck>, ros-lyrical-nav2-minimal-tb4-description, ros-lyrical-robot-state-publisher, ros-lyrical-ros-gz-bridge, ros-lyrical-ros-gz-image, ros-lyrical-ros-gz-interfaces, ros-lyrical-ros-gz-sim, ros-lyrical-xacro, ros-lyrical-ros-workspace
+Homepage: https://index.ros.org/p/nav2_minimal_tb4_sim/#lyrical
+Standards-Version: 3.9.2
+
+Package: ros-lyrical-nav2-minimal-tb4-sim
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-lyrical-nav2-minimal-tb4-description, ros-lyrical-robot-state-publisher, ros-lyrical-ros-gz-bridge, ros-lyrical-ros-gz-image, ros-lyrical-ros-gz-interfaces, ros-lyrical-ros-gz-sim, ros-lyrical-xacro, ros-lyrical-ros-workspace
+Description: Nav2 Minimum TurtleBot4 Simulation
