@@ -1,1 +1,1 @@
-{"base": "0b453e8389a4", "parent": "debian/rolling/nav2_minimal_tb4_sim", "previous": "2e83b8ea2c90", "trim": "", "trimbase": ""}
+{"base": "fa839d4", "parent": "debian/lyrical/nav2_minimal_tb4_sim", "previous": "06bbcff", "trim": "", "trimbase": ""}
