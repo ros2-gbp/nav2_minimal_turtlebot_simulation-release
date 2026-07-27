@@ -1,6 +1,5 @@
-# nav2_minimal_turtlebot_simulation
+# Nav2 Minimal Turtlebot4 Simulation
 
-A minimum description & simulation of the TB3/TB4 using standard ROS-GZ tools for ``nav2_bringup`` and user example.
+This is a minimum simulation for the Turtlebot4 for use with Nav2. This is setup to strip out external dependencies and complexities of the iRobot Create3 & TB4 ignition simulation panels to the bare minimum needed for simulating the robot for Nav2's bringup which hopefully will not require changes from distribution-to-distribution.
 
-It is largely ROS distribution agnostic, using launch files and URDFs so it should be easy to use for any ROS 2 distribution & release into Rolling for all future ones. 
-
+Includes the Gazebo bridge configuration and launch files to open the robot in a particular simulated world (provided)
